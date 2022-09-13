@@ -4,6 +4,7 @@ namespace Qnizer.Common.Enums
     {
         ToDo,
         InProgress,
+        Validate,
         Finished
     }
 }
